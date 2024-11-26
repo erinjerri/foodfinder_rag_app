@@ -1,0 +1,5 @@
+autogen-agentchat~=0.2
+requests
+PyJWT
+Flask
+python-dotenv
